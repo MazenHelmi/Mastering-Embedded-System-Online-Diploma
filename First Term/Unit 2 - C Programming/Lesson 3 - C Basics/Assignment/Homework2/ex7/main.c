@@ -19,8 +19,6 @@ int main(void)
 	scanf("%d", &n);
 	if(n < 0)
 		printf("Error! Factorial of a negative number doesn't exist.");
-	else if(n == 0)
-		printf("Factorial = %llu", factorial);
 	else
 	{
 		for(i = 1; i <= n; i++)

@@ -20,7 +20,7 @@ int main(void)
 		printf("%.2f is positive.", num);
 	else if(num < 0)
 		printf("%.2f is negative.", num);
-	else if(num == 0)
+	else
 		printf("You entered zero.");
 	return 0;
 }
