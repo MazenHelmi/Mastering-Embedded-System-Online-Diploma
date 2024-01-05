@@ -4,7 +4,7 @@
  Author      : Mazen Helmi
  Date 	     : 03/01/2024
  Description : C Program to Find Largest Number Among Three Numbers
- 	 	 	   NOTE: more efficient way should be with if...else statement but not this way (no nested if).
+ 	 	 	   NOTE: there is a more efficient way but it's not this way (nested if).
  ============================================================================
  */
 
